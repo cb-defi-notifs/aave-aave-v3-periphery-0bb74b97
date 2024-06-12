@@ -1,5 +1,26 @@
 # Changelog
 
+## [2.5.2](https://github.com/aave/aave-v3-periphery/compare/v2.5.1...v2.5.2) (2024-03-07)
+
+
+### Bug Fixes
+
+* Bump v3 core dependency ([#188](https://github.com/aave/aave-v3-periphery/issues/188)) ([d332212](https://github.com/aave/aave-v3-periphery/commit/d332212c10bf8a65d622e9bfbbb83f760cba171c))
+
+## [2.5.1](https://github.com/aave/aave-v3-periphery/compare/v2.5.0...v2.5.1) (2024-03-07)
+
+
+### Bug Fixes
+
+* Bump aave v3 dependencies ([#186](https://github.com/aave/aave-v3-periphery/issues/186)) ([d9a89ef](https://github.com/aave/aave-v3-periphery/commit/d9a89ef3db3a609ec81260bc31390bd1d2471174))
+
+## [2.5.0](https://github.com/aave/aave-v3-periphery/compare/v2.4.1...v2.5.0) (2023-08-22)
+
+
+### Features
+
+* Add withdraw and swap paraswap adapter ([#180](https://github.com/aave/aave-v3-periphery/issues/180)) ([b7ead26](https://github.com/aave/aave-v3-periphery/commit/b7ead26505ad699a5da31aa1abd20b47b5f27d6a))
+
 ## [2.4.1](https://github.com/aave/aave-v3-periphery/compare/v2.4.0...v2.4.1) (2023-07-06)
 
 
